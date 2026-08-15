@@ -1,0 +1,17 @@
+{
+  "lane": "CTR / Engagement Opportunity Scoring",
+  "data_release": "starter CSV (30,000 rows, 32 clients) -- NOT full warehouse",
+  "n_train_rows": 11845,
+  "n_test_rows": 3224,
+  "n_train_clients": 21,
+  "n_test_clients": 8,
+  "baseline_MAE": 0.2659754962779156,
+  "model_MAE": 0.2997986129814474,
+  "baseline_R2": -0.10747684646443845,
+  "model_R2": -0.167913580156694,
+  "mae_improvement_pct": -0.12716628853731052,
+  "precision_at_50_baseline": 0.26,
+  "precision_at_50_model": 0.4,
+  "base_rate_bottom_quartile": 0.25992555831265507,
+  "n_recommendations": 2041
+}
